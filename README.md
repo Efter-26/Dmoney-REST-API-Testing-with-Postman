@@ -47,15 +47,14 @@ To run this project on your local machine, follow these steps:
     ```bash
     npm install
     ```
-
-3. **Add environment variables**:
+4. **Add environment variables**:
     - Add an `.env` file to the project root containing API key.
     - Example of `.env` file:
       ```
       API_KEY=your-api-key
       ```
 
-4. **Run the tests**:
+5. **Run the tests**:
     To execute the automated tests, simply run the following command:
     ```bash
     npm test
@@ -71,20 +70,21 @@ The full **API documentation** for Dmoney can be found [here](#).
 
 ## Test Case Report
 
-Detailed **Test case** reports can be found [here](#).
+Detailed **Test case** reports can be found [here](https://drive.google.com/drive/u/0/folders/1xxu_rh1ywAty8BEEZG3pM_6hq0NjThWc).
 
 ---
 
 ## Bug Report
 
-During this project I faced some bug/improvement while testing the API endpoints. The actual result did not meet the expected result. I have attached the **Bug report** [here](#).
+During this project I faced some bug/improvement while testing the API endpoints. The actual result did not meet the expected result. I have attached the **Bug report** [here](https://drive.google.com/drive/u/0/folders/1WmU2vyF2hvSyM4ljoZsax4T6jYC8WL3_).
 
 ---
 
 ## Output
 
-Below is an image of the test output:
-![Test Output](path/to/output-image.png)
+Below is an image of Newman Report:
+![image](https://example.com/path/to/image.png)
+
 
 ---
 
