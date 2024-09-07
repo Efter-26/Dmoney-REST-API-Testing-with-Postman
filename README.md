@@ -83,7 +83,8 @@ During this project I faced some bug/improvement while testing the API endpoints
 ## Output
 
 Below is an image of Newman Report:
-![image](https://example.com/path/to/image.png)
+![image](https://github.com/user-attachments/assets/45f86f7f-e155-474b-82b1-147513d84bfd)
+
 
 
 ---
