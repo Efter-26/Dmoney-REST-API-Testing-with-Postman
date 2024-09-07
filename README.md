@@ -76,7 +76,7 @@ Detailed **Test case** reports can be found [here](https://drive.google.com/driv
 
 ## Bug Report
 
-During this project I faced some bug/improvement while testing the API endpoints. The actual result did not meet the expected result. I have attached the **Bug report** [here](https://drive.google.com/drive/u/0/folders/1WmU2vyF2hvSyM4ljoZsax4T6jYC8WL3_).
+During this project I faced some bug/improvement while testing the API endpoints. The actual result did not meet the expected result for this some test result meet failed. I have attached the **Bug report** [here](https://drive.google.com/drive/u/0/folders/1WmU2vyF2hvSyM4ljoZsax4T6jYC8WL3_).
 
 ---
 
