@@ -1,6 +1,6 @@
 # Dmoney API Automation: Comprehensive CRUD and Transaction Testing
 
-This repository contains automated API testing for the Dmoney platform, focusing on both user CRUD operations and transaction scenarios using Postman and Newman, integrated with Node.js for executing tests and generating reports.
+This repository contains automated API testing for the Dmoney platform, focusing on both user CRUD operations and Transaction scenarios using Postman and Newman, integrated with Node.js for executing tests and generating reports.
 
 ## Project Summary
 
